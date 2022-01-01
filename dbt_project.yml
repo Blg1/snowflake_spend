@@ -1,4 +1,5 @@
 name: 'snowflake_spend'
+enabled: true
 version: '1.0'
 config-version: 2
 require-dbt-version: ">=0.17.0"
